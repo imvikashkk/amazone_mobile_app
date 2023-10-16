@@ -1,0 +1,1305 @@
+{
+    "request_info": {
+        "success": true,
+        "credits_used": 7,
+        "credits_remaining": 93,
+        "credits_used_this_request": 1
+    },
+    "request_parameters": {
+        "type": "search",
+        "amazon_domain": "amazon.in",
+        "search_term": "memory cards"
+    },
+    "request_metadata": {
+        "created_at": "2023-09-08T11:32:40.449Z",
+        "processed_at": "2023-09-08T11:32:42.886Z",
+        "total_time_taken": 2.44,
+        "amazon_url": "https://www.amazon.in/s/?k=memory+cards&ref=nb_sb_noss_2"
+    },
+    "search_results": [
+        {
+            "position": 1,
+            "title": "SanDisk Extreme® 256GB microSDXC UHS-I, 190MB/s Read, 130MB/s Write Memory Card for 4K Video on Smartphones, Action Cams and Drones",
+            "asin": "B0B2DCZDJZ",
+            "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo1MjM0MTg0MjQ5NTQ1NjE1OjE2OTQxNzI3NjE6c3BfYXRmOjIwMTU4NTI0OTk0Mzk4OjowOjo&url=%2FSanDisk-Extreme-microSD-Smartphones-Action%2Fdp%2FB0B2DCZDJZ%2Fref%3Dsr_1_1_sspa%3Fkeywords%3Dmemory%2Bcards%26qid%3D1694172761%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+            "categories": [
+                {
+                    "name": "All Categories",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/81o+KgHuhxL._AC_UY218_.jpg",
+            "is_prime": true,
+            "rating": 4.5,
+            "ratings_total": 1914,
+            "sponsored": true,
+            "prices": [
+                {
+                    "symbol": "₹",
+                    "value": 1949,
+                    "currency": "INR",
+                    "raw": "₹1,949",
+                    "name": "Primary",
+                    "is_primary": true
+                },
+                {
+                    "symbol": "₹",
+                    "value": 5600,
+                    "currency": "INR",
+                    "raw": "₹5,600",
+                    "name": "Original",
+                    "is_rrp": true
+                }
+            ],
+            "price": {
+                "symbol": "₹",
+                "value": 1949,
+                "currency": "INR",
+                "raw": "₹1,949",
+                "name": "Primary",
+                "is_primary": true
+            }
+        },
+        {
+            "position": 2,
+            "title": "Samsung EVO Plus 64GB microSDXC UHS-I U1 130MB/s Full HD & 4K UHD Memory Card with Adapter (MB-MC64KA)",
+            "asin": "B09MT6XSFW",
+            "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo1MjM0MTg0MjQ5NTQ1NjE1OjE2OTQxNzI3NjE6c3BfYXRmOjIwMTA4MTg5OTkzNzk4OjowOjo&url=%2FSamsung-microSDXC-Memory-Adapter-MB-MC64KA%2Fdp%2FB09MT6XSFW%2Fref%3Dsr_1_2_sspa%3Fkeywords%3Dmemory%2Bcards%26qid%3D1694172761%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+            "categories": [
+                {
+                    "name": "All Categories",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/61rnCkrurxL._AC_UY218_.jpg",
+            "is_prime": true,
+            "rating": 4.4,
+            "ratings_total": 152635,
+            "sponsored": true,
+            "prices": [
+                {
+                    "symbol": "₹",
+                    "value": 439,
+                    "currency": "INR",
+                    "raw": "₹439",
+                    "name": "Primary",
+                    "is_primary": true
+                },
+                {
+                    "symbol": "₹",
+                    "value": 1399,
+                    "currency": "INR",
+                    "raw": "₹1,399",
+                    "name": "Original",
+                    "is_rrp": true
+                }
+            ],
+            "price": {
+                "symbol": "₹",
+                "value": 439,
+                "currency": "INR",
+                "raw": "₹439",
+                "name": "Primary",
+                "is_primary": true
+            }
+        },
+        {
+            "position": 3,
+            "title": "SanDisk Ultra® microSDXC UHS-I Card, 64GB, 140MB/s R, 10 Y Warranty, for Smartphones",
+            "asin": "B0BDRVFDKP",
+            "link": "https://www.amazon.in/SanDisk-Ultra%C2%AE-microSDXCTM-Warranty-Smartphones/dp/B0BDRVFDKP/ref=sr_1_3?keywords=memory+cards&qid=1694172761&sr=8-3",
+            "categories": [
+                {
+                    "name": "All Categories",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/7180ZAZmERL._AC_UY218_.jpg",
+            "amazons_choice": {
+                "link": "https://www.amazon.in/SanDisk-Ultra%C2%AE-microSDXCTM-Warranty-Smartphones/dp/B0BDRVFDKP/ref=ice_ac_b_dpb?keywords=memory+cards&qid=1694172761&sr=8-3",
+                "keywords": "\"memory cards\""
+            },
+            "is_prime": true,
+            "rating": 4.4,
+            "ratings_total": 85504,
+            "prices": [
+                {
+                    "symbol": "₹",
+                    "value": 439,
+                    "currency": "INR",
+                    "raw": "₹439",
+                    "name": "Primary",
+                    "is_primary": true
+                },
+                {
+                    "symbol": "₹",
+                    "value": 1000,
+                    "currency": "INR",
+                    "raw": "₹1,000",
+                    "name": "Original",
+                    "is_rrp": true
+                }
+            ],
+            "price": {
+                "symbol": "₹",
+                "value": 439,
+                "currency": "INR",
+                "raw": "₹439",
+                "name": "Primary",
+                "is_primary": true
+            }
+        },
+        {
+            "position": 4,
+            "title": "SanDisk Ultra® microSDXC UHS-I Card, 128GB, 140MB/s R, 10 Y Warranty, for Smartphones",
+            "asin": "B0BDYVC5TD",
+            "link": "https://www.amazon.in/SanDisk-Ultra%C2%AE-microSDXCTM-Warranty-Smartphones/dp/B0BDYVC5TD/ref=sr_1_4?keywords=memory+cards&qid=1694172761&sr=8-4",
+            "categories": [
+                {
+                    "name": "All Categories",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/71jsEFJtRRL._AC_UY218_.jpg",
+            "is_prime": true,
+            "rating": 4.4,
+            "ratings_total": 85504,
+            "prices": [
+                {
+                    "symbol": "₹",
+                    "value": 819,
+                    "currency": "INR",
+                    "raw": "₹819",
+                    "name": "Primary",
+                    "is_primary": true
+                },
+                {
+                    "symbol": "₹",
+                    "value": 1800,
+                    "currency": "INR",
+                    "raw": "₹1,800",
+                    "name": "Original",
+                    "is_rrp": true
+                }
+            ],
+            "price": {
+                "symbol": "₹",
+                "value": 819,
+                "currency": "INR",
+                "raw": "₹819",
+                "name": "Primary",
+                "is_primary": true
+            }
+        },
+        {
+            "position": 5,
+            "title": "Samsung EVO Plus 128GB microSDXC UHS-I U3 130MB/s Full HD & 4K UHD Memory Card with Adapter (MB-MC128KA)",
+            "asin": "B09MT84WV5",
+            "link": "https://www.amazon.in/Samsung-microSDXC-Memory-Adapter-MB-MC128KA/dp/B09MT84WV5/ref=sr_1_5?keywords=memory+cards&qid=1694172761&sr=8-5",
+            "categories": [
+                {
+                    "name": "All Categories",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/61fkOHNmzpL._AC_UY218_.jpg",
+            "bestseller": {
+                "link": "https://www.amazon.in/gp/bestsellers/electronics/1388965031/ref=sr_bs_4_1388965031_1",
+                "category": "Micro SD Cards"
+            },
+            "is_prime": true,
+            "rating": 4.4,
+            "ratings_total": 152635,
+            "prices": [
+                {
+                    "symbol": "₹",
+                    "value": 829,
+                    "currency": "INR",
+                    "raw": "₹829",
+                    "name": "Primary",
+                    "is_primary": true
+                },
+                {
+                    "symbol": "₹",
+                    "value": 2698,
+                    "currency": "INR",
+                    "raw": "₹2,698",
+                    "name": "Original",
+                    "is_rrp": true
+                }
+            ],
+            "price": {
+                "symbol": "₹",
+                "value": 829,
+                "currency": "INR",
+                "raw": "₹829",
+                "name": "Primary",
+                "is_primary": true
+            }
+        },
+        {
+            "position": 6,
+            "title": "Samsung EVO Plus 64GB microSDXC UHS-I U1 130MB/s Full HD & 4K UHD Memory Card with Adapter (MB-MC64KA)",
+            "asin": "B09MT6XSFW",
+            "link": "https://www.amazon.in/Samsung-microSDXC-Memory-Adapter-MB-MC64KA/dp/B09MT6XSFW/ref=sr_1_6?keywords=memory+cards&qid=1694172761&sr=8-6",
+            "categories": [
+                {
+                    "name": "All Categories",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/61rnCkrurxL._AC_UY218_.jpg",
+            "is_prime": true,
+            "rating": 4.4,
+            "ratings_total": 152635,
+            "prices": [
+                {
+                    "symbol": "₹",
+                    "value": 439,
+                    "currency": "INR",
+                    "raw": "₹439",
+                    "name": "Primary",
+                    "is_primary": true
+                },
+                {
+                    "symbol": "₹",
+                    "value": 1399,
+                    "currency": "INR",
+                    "raw": "₹1,399",
+                    "name": "Original",
+                    "is_rrp": true
+                }
+            ],
+            "price": {
+                "symbol": "₹",
+                "value": 439,
+                "currency": "INR",
+                "raw": "₹439",
+                "name": "Primary",
+                "is_primary": true
+            }
+        },
+        {
+            "position": 7,
+            "title": "SanDisk Ultra microSD UHS-I Card 32GB, 120MB/s R",
+            "asin": "B08L5HMJVW",
+            "link": "https://www.amazon.in/SanDisk-Ultra-microSD-UHS-I-120MB/dp/B08L5HMJVW/ref=sr_1_7?keywords=memory+cards&qid=1694172761&sr=8-7",
+            "categories": [
+                {
+                    "name": "All Categories",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/61MHVeEPw3L._AC_UY218_.jpg",
+            "is_prime": true,
+            "rating": 4.4,
+            "ratings_total": 85504,
+            "prices": [
+                {
+                    "symbol": "₹",
+                    "value": 359,
+                    "currency": "INR",
+                    "raw": "₹359",
+                    "name": "Primary",
+                    "is_primary": true
+                },
+                {
+                    "symbol": "₹",
+                    "value": 700,
+                    "currency": "INR",
+                    "raw": "₹700",
+                    "name": "Original",
+                    "is_rrp": true
+                }
+            ],
+            "price": {
+                "symbol": "₹",
+                "value": 359,
+                "currency": "INR",
+                "raw": "₹359",
+                "name": "Primary",
+                "is_primary": true
+            }
+        },
+        {
+            "position": 8,
+            "title": "Samsung EVO Plus 256GB microSDXC UHS-I U3 130MB/s Full HD & 4K UHD Memory Card with Adapter (MB-MC256KA)",
+            "asin": "B09MT6SWDL",
+            "link": "https://www.amazon.in/Samsung-microSDXC-Memory-Adapter-MB-MC256KA/dp/B09MT6SWDL/ref=sr_1_8?keywords=memory+cards&qid=1694172761&sr=8-8",
+            "categories": [
+                {
+                    "name": "All Categories",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/71yD4EP3G4L._AC_UY218_.jpg",
+            "is_prime": true,
+            "rating": 4.4,
+            "ratings_total": 152635,
+            "prices": [
+                {
+                    "symbol": "₹",
+                    "value": 1529,
+                    "currency": "INR",
+                    "raw": "₹1,529",
+                    "name": "Primary",
+                    "is_primary": true
+                },
+                {
+                    "symbol": "₹",
+                    "value": 4999,
+                    "currency": "INR",
+                    "raw": "₹4,999",
+                    "name": "Original",
+                    "is_rrp": true
+                }
+            ],
+            "price": {
+                "symbol": "₹",
+                "value": 1529,
+                "currency": "INR",
+                "raw": "₹1,529",
+                "name": "Primary",
+                "is_primary": true
+            }
+        },
+        {
+            "position": 9,
+            "title": "HP 32GB Class 10 MicroSD Memory Card (Micro SDHC mi210)",
+            "asin": "B07DJLFMPS",
+            "link": "https://www.amazon.in/HP-MicroSD-U1-TF-Card-32GB/dp/B07DJLFMPS/ref=sr_1_9?keywords=memory+cards&qid=1694172761&sr=8-9",
+            "categories": [
+                {
+                    "name": "All Categories",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/51nyfOXcxoL._AC_UY218_.jpg",
+            "deal": {
+                "link": "https://www.amazon.in/gp/goldbox/",
+                "badge_text": "Limited time deal"
+            },
+            "unit_price": "₹9.97/GB",
+            "is_prime": true,
+            "rating": 4,
+            "ratings_total": 36005,
+            "prices": [
+                {
+                    "symbol": "₹",
+                    "value": 319,
+                    "currency": "INR",
+                    "raw": "₹319",
+                    "name": "Limited time deal",
+                    "is_primary": true
+                },
+                {
+                    "symbol": "₹",
+                    "value": 1600,
+                    "currency": "INR",
+                    "raw": "₹1,600",
+                    "name": "Limited time deal",
+                    "is_rrp": true
+                }
+            ],
+            "price": {
+                "symbol": "₹",
+                "value": 319,
+                "currency": "INR",
+                "raw": "₹319",
+                "name": "Limited time deal",
+                "is_primary": true
+            }
+        },
+        {
+            "position": 10,
+            "title": "Amazon Basics 32GB MicroSDHC Memory Card with Adapter, Upto 98MB/s, IPX6, Temperature & Shock Resistant",
+            "asin": "B0B9XV7KZX",
+            "link": "https://www.amazon.in/AmazonBasics-microSDHC-Memory-Adapter-Speed/dp/B0B9XV7KZX/ref=sr_1_10?keywords=memory+cards&qid=1694172761&sr=8-10",
+            "categories": [
+                {
+                    "name": "All Categories",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/71fnwTYD6jL._AC_UY218_.jpg",
+            "deal": {
+                "link": "https://www.amazon.in/gp/goldbox/",
+                "badge_text": "Deal of the Day"
+            },
+            "unit_price": "₹2.99/Item",
+            "is_prime": true,
+            "rating": 4.3,
+            "ratings_total": 37145,
+            "prices": [
+                {
+                    "symbol": "₹",
+                    "value": 299,
+                    "currency": "INR",
+                    "raw": "₹299",
+                    "name": "Deal of the Day",
+                    "is_primary": true
+                },
+                {
+                    "symbol": "₹",
+                    "value": 900,
+                    "currency": "INR",
+                    "raw": "₹900",
+                    "name": "Deal of the Day",
+                    "is_rrp": true
+                }
+            ],
+            "price": {
+                "symbol": "₹",
+                "value": 299,
+                "currency": "INR",
+                "raw": "₹299",
+                "name": "Deal of the Day",
+                "is_primary": true
+            }
+        },
+        {
+            "position": 11,
+            "title": "Realstic 128 GB MicroSD Card Class 10 130 MB/s Memory Card",
+            "asin": "B0CGVN8SY3",
+            "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo1MjM0MTg0MjQ5NTQ1NjE1OjE2OTQxNzI3NjE6c3BfbXRmOjMwMDA0Nzk0MTAwNDkzMjo6MDo6&url=%2FRealstic-MicroSD-Card-Class-Memory%2Fdp%2FB0CGVN8SY3%2Fref%3Dsr_1_11_sspa%3Fkeywords%3Dmemory%2Bcards%26qid%3D1694172761%26sr%3D8-11-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1",
+            "categories": [
+                {
+                    "name": "All Categories",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/61uxrO45p3L._AC_UY218_.jpg",
+            "sponsored": true,
+            "prices": [
+                {
+                    "symbol": "₹",
+                    "value": 549,
+                    "currency": "INR",
+                    "raw": "₹549",
+                    "name": "Primary",
+                    "is_primary": true
+                },
+                {
+                    "symbol": "₹",
+                    "value": 1999,
+                    "currency": "INR",
+                    "raw": "₹1,999",
+                    "name": "Original",
+                    "is_rrp": true
+                }
+            ],
+            "price": {
+                "symbol": "₹",
+                "value": 549,
+                "currency": "INR",
+                "raw": "₹549",
+                "name": "Primary",
+                "is_primary": true
+            }
+        },
+        {
+            "position": 12,
+            "title": "MARCELLE Ultra 128GB Memory Card 130 MBPS",
+            "asin": "B0CCL2ND4X",
+            "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo1MjM0MTg0MjQ5NTQ1NjE1OjE2OTQxNzI3NjE6c3BfbXRmOjMwMDA0MTAzNzk3MTYzMjo6MDo6&url=%2FMARCELLE-Ultra-128GB-Memory-Card%2Fdp%2FB0CCL2ND4X%2Fref%3Dsr_1_12_sspa%3Fkeywords%3Dmemory%2Bcards%26qid%3D1694172761%26sr%3D8-12-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1",
+            "categories": [
+                {
+                    "name": "All Categories",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/71HLsbujhzL._AC_UY218_.jpg",
+            "rating": 3,
+            "ratings_total": 3,
+            "sponsored": true,
+            "prices": [
+                {
+                    "symbol": "₹",
+                    "value": 599,
+                    "currency": "INR",
+                    "raw": "₹599",
+                    "name": "Primary",
+                    "is_primary": true
+                },
+                {
+                    "symbol": "₹",
+                    "value": 999,
+                    "currency": "INR",
+                    "raw": "₹999",
+                    "name": "Original",
+                    "is_rrp": true
+                }
+            ],
+            "price": {
+                "symbol": "₹",
+                "value": 599,
+                "currency": "INR",
+                "raw": "₹599",
+                "name": "Primary",
+                "is_primary": true
+            }
+        },
+        {
+            "position": 13,
+            "title": "Samsung EVO Plus 512GB microSDXC UHS-I U3 130MB/s Full HD & 4K UHD Memory Card with Adapter (MB-MC512KA)",
+            "asin": "B09MT7JWS7",
+            "link": "https://www.amazon.in/Samsung-microSDXC-Memory-Adapter-MB-MC512KA/dp/B09MT7JWS7/ref=sr_1_13?keywords=memory+cards&qid=1694172761&sr=8-13",
+            "categories": [
+                {
+                    "name": "All Categories",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/61FVydb2HHL._AC_UY218_.jpg",
+            "is_prime": true,
+            "rating": 4.4,
+            "ratings_total": 152635,
+            "prices": [
+                {
+                    "symbol": "₹",
+                    "value": 3079,
+                    "currency": "INR",
+                    "raw": "₹3,079",
+                    "name": "Primary",
+                    "is_primary": true
+                },
+                {
+                    "symbol": "₹",
+                    "value": 9499,
+                    "currency": "INR",
+                    "raw": "₹9,499",
+                    "name": "Original",
+                    "is_rrp": true
+                }
+            ],
+            "price": {
+                "symbol": "₹",
+                "value": 3079,
+                "currency": "INR",
+                "raw": "₹3,079",
+                "name": "Primary",
+                "is_primary": true
+            }
+        },
+        {
+            "position": 14,
+            "title": "SanDisk Extreme® 64GB microSDXC¢ UHS-I, 170MB/s Read,80MB/s Write Memory Card for 4K Video on Smartphones, Action Cams and Drones",
+            "asin": "B0B2DDJGF8",
+            "link": "https://www.amazon.in/SanDisk-Extreme-microSD-Smartphones-Action/dp/B0B2DDJGF8/ref=sr_1_14?keywords=memory+cards&qid=1694172761&sr=8-14",
+            "categories": [
+                {
+                    "name": "All Categories",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/819TlwWzDvL._AC_UY218_.jpg",
+            "is_prime": true,
+            "rating": 4.5,
+            "ratings_total": 1914,
+            "prices": [
+                {
+                    "symbol": "₹",
+                    "value": 569,
+                    "currency": "INR",
+                    "raw": "₹569",
+                    "name": "Primary",
+                    "is_primary": true
+                },
+                {
+                    "symbol": "₹",
+                    "value": 1600,
+                    "currency": "INR",
+                    "raw": "₹1,600",
+                    "name": "Original",
+                    "is_rrp": true
+                }
+            ],
+            "price": {
+                "symbol": "₹",
+                "value": 569,
+                "currency": "INR",
+                "raw": "₹569",
+                "name": "Primary",
+                "is_primary": true
+            }
+        },
+        {
+            "position": 15,
+            "title": "SanDisk Extreme® 128GB microSDXC¢ UHS-I, 190MB/s Read,90MB/s Write Memory Card for 4K Video on Smartphones, Action Cams and Drones",
+            "asin": "B0B2DD66GS",
+            "link": "https://www.amazon.in/SanDisk-Extreme-microSD-Smartphones-Action/dp/B0B2DD66GS/ref=sr_1_15?keywords=memory+cards&qid=1694172761&sr=8-15",
+            "categories": [
+                {
+                    "name": "All Categories",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/815cRpgAN3L._AC_UY218_.jpg",
+            "is_prime": true,
+            "rating": 4.5,
+            "ratings_total": 2375,
+            "prices": [
+                {
+                    "symbol": "₹",
+                    "value": 1069,
+                    "currency": "INR",
+                    "raw": "₹1,069",
+                    "name": "Primary",
+                    "is_primary": true
+                },
+                {
+                    "symbol": "₹",
+                    "value": 2900,
+                    "currency": "INR",
+                    "raw": "₹2,900",
+                    "name": "Original",
+                    "is_rrp": true
+                }
+            ],
+            "price": {
+                "symbol": "₹",
+                "value": 1069,
+                "currency": "INR",
+                "raw": "₹1,069",
+                "name": "Primary",
+                "is_primary": true
+            }
+        },
+        {
+            "position": 16,
+            "title": "SP Silicon Power Silicon Power 64GB microSDXC UHS-I Micro SD Card with Adapter, Up to 100MB/s Read, Class 10 U1 V10 A1 Full HD Video microSD Memory Card, Elite Series",
+            "asin": "B088KDJ1C7",
+            "link": "https://www.amazon.in/Silicon-Power-MicroSDXC-UHS-1-Memory/dp/B088KDJ1C7/ref=sr_1_16?keywords=memory+cards&qid=1694172761&sr=8-16",
+            "categories": [
+                {
+                    "name": "All Categories",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/512mmOS572L._AC_UY218_.jpg",
+            "is_prime": true,
+            "rating": 4.3,
+            "ratings_total": 250,
+            "prices": [
+                {
+                    "symbol": "₹",
+                    "value": 439,
+                    "currency": "INR",
+                    "raw": "₹439",
+                    "name": "Primary",
+                    "is_primary": true
+                },
+                {
+                    "symbol": "₹",
+                    "value": 1500,
+                    "currency": "INR",
+                    "raw": "₹1,500",
+                    "name": "Original",
+                    "is_rrp": true
+                }
+            ],
+            "price": {
+                "symbol": "₹",
+                "value": 439,
+                "currency": "INR",
+                "raw": "₹439",
+                "name": "Primary",
+                "is_primary": true
+            }
+        },
+        {
+            "position": 17,
+            "title": "SP Silicon Power 32GB microSDXC UHS-I Micro SD Card with Adapter, Up to 100MB/s Read, Class 10 U1 V10 A1 Full HD Video microSD Memory Card, Elite Series",
+            "asin": "B088K7GN2G",
+            "link": "https://www.amazon.in/Silicon-Power-MicroSDHC-UHS-1-Memory/dp/B088K7GN2G/ref=sr_1_17?keywords=memory+cards&qid=1694172761&sr=8-17",
+            "categories": [
+                {
+                    "name": "All Categories",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/512mmOS572L._AC_UY218_.jpg",
+            "is_prime": true,
+            "rating": 4.3,
+            "ratings_total": 250,
+            "prices": [
+                {
+                    "symbol": "₹",
+                    "value": 269,
+                    "currency": "INR",
+                    "raw": "₹269",
+                    "name": "Primary",
+                    "is_primary": true
+                },
+                {
+                    "symbol": "₹",
+                    "value": 800,
+                    "currency": "INR",
+                    "raw": "₹800",
+                    "name": "Original",
+                    "is_rrp": true
+                }
+            ],
+            "price": {
+                "symbol": "₹",
+                "value": 269,
+                "currency": "INR",
+                "raw": "₹269",
+                "name": "Primary",
+                "is_primary": true
+            }
+        },
+        {
+            "position": 18,
+            "title": "Amazon Basics 512GB microSDXC Memory Card with Full Size Adapter, 100MB/s, U3",
+            "asin": "B08TJTCCV8",
+            "link": "https://www.amazon.in/Amazon-Basics-microSDXC-Memory-Adapter/dp/B08TJTCCV8/ref=sr_1_18?keywords=memory+cards&qid=1694172761&sr=8-18",
+            "categories": [
+                {
+                    "name": "All Categories",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/61jpOI5IdqL._AC_UY218_.jpg",
+            "deal": {
+                "link": "https://www.amazon.in/gp/goldbox/",
+                "badge_text": "Deal of the Day"
+            },
+            "is_prime": true,
+            "rating": 4.3,
+            "ratings_total": 37145,
+            "prices": [
+                {
+                    "symbol": "₹",
+                    "value": 2999,
+                    "currency": "INR",
+                    "raw": "₹2,999",
+                    "name": "Deal of the Day",
+                    "is_primary": true
+                },
+                {
+                    "symbol": "₹",
+                    "value": 12999,
+                    "currency": "INR",
+                    "raw": "₹12,999",
+                    "name": "Deal of the Day",
+                    "is_rrp": true
+                }
+            ],
+            "price": {
+                "symbol": "₹",
+                "value": 2999,
+                "currency": "INR",
+                "raw": "₹2,999",
+                "name": "Deal of the Day",
+                "is_primary": true
+            }
+        },
+        {
+            "position": 19,
+            "title": "SP Silicon Power 128GB microSDXC UHS-I Micro SD Card with Adapter, Up to 100MB/s Read, Class 10 U1 V10 A1 Full HD Video microSD Memory Card, Elite Series",
+            "asin": "B08FTDTHPJ",
+            "link": "https://www.amazon.in/Silicon-Power-MicroSDXC-Nintendo-Switch-Compatible/dp/B08FTDTHPJ/ref=sr_1_19?keywords=memory+cards&qid=1694172761&sr=8-19",
+            "categories": [
+                {
+                    "name": "All Categories",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/512mmOS572L._AC_UY218_.jpg",
+            "is_prime": true,
+            "rating": 4.3,
+            "ratings_total": 250,
+            "prices": [
+                {
+                    "symbol": "₹",
+                    "value": 615,
+                    "currency": "INR",
+                    "raw": "₹615",
+                    "name": "Primary",
+                    "is_primary": true
+                },
+                {
+                    "symbol": "₹",
+                    "value": 2700,
+                    "currency": "INR",
+                    "raw": "₹2,700",
+                    "name": "Original",
+                    "is_rrp": true
+                }
+            ],
+            "price": {
+                "symbol": "₹",
+                "value": 615,
+                "currency": "INR",
+                "raw": "₹615",
+                "name": "Primary",
+                "is_primary": true
+            }
+        },
+        {
+            "position": 20,
+            "title": "SanDisk Extreme Pro® 128GB microSDXC¢ UHS-I, 200MB/s Read, 90MB/s Write Memory Card for 4K Video on Smartphones, Action Cams and Drones",
+            "asin": "B09X7DNF6G",
+            "link": "https://www.amazon.in/SanDisk-Extreme-microSD-Smartphones-Action/dp/B09X7DNF6G/ref=sr_1_20?keywords=memory+cards&qid=1694172761&sr=8-20",
+            "categories": [
+                {
+                    "name": "All Categories",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/61o8OmUS-iL._AC_UY218_.jpg",
+            "is_prime": true,
+            "rating": 4.5,
+            "ratings_total": 11985,
+            "prices": [
+                {
+                    "symbol": "₹",
+                    "value": 1489,
+                    "currency": "INR",
+                    "raw": "₹1,489",
+                    "name": "Primary",
+                    "is_primary": true
+                },
+                {
+                    "symbol": "₹",
+                    "value": 3900,
+                    "currency": "INR",
+                    "raw": "₹3,900",
+                    "name": "Original",
+                    "is_rrp": true
+                }
+            ],
+            "price": {
+                "symbol": "₹",
+                "value": 1489,
+                "currency": "INR",
+                "raw": "₹1,489",
+                "name": "Primary",
+                "is_primary": true
+            }
+        },
+        {
+            "position": 21,
+            "title": "Realstic 256 GB MicroSD Card Class 10 130 MB's Memory Card 256gb Memory Card 256gb sd Card",
+            "asin": "B0CH3VJNQN",
+            "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo1MjM0MTg0MjQ5NTQ1NjE1OjE2OTQxNzI3NjE6c3BfYnRmOjMwMDA0Nzk0MTAwNDgzMjo6MDo6&url=%2FRealstic-MicroSD-Class-Memory-256gb%2Fdp%2FB0CH3VJNQN%2Fref%3Dsr_1_21_sspa%3Fkeywords%3Dmemory%2Bcards%26qid%3D1694172761%26sr%3D8-21-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1",
+            "categories": [
+                {
+                    "name": "All Categories",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/51ES2X9VoKL._AC_UY218_.jpg",
+            "sponsored": true,
+            "prices": [
+                {
+                    "symbol": "₹",
+                    "value": 850,
+                    "currency": "INR",
+                    "raw": "₹850",
+                    "name": "Primary",
+                    "is_primary": true
+                },
+                {
+                    "symbol": "₹",
+                    "value": 3500,
+                    "currency": "INR",
+                    "raw": "₹3,500",
+                    "name": "Original",
+                    "is_rrp": true
+                }
+            ],
+            "price": {
+                "symbol": "₹",
+                "value": 850,
+                "currency": "INR",
+                "raw": "₹850",
+                "name": "Primary",
+                "is_primary": true
+            }
+        },
+        {
+            "position": 22,
+            "title": "128GB Memory Card Class 10 128Gb Memory Card 130MB/S",
+            "asin": "B0CFYDD3KJ",
+            "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo1MjM0MTg0MjQ5NTQ1NjE1OjE2OTQxNzI3NjE6c3BfYnRmOjMwMDA0Nzk0MTAwNTAzMjo6MDo6&url=%2F128GB-Memory-Class-128Gb-130MB%2Fdp%2FB0CFYDD3KJ%2Fref%3Dsr_1_22_sspa%3Fkeywords%3Dmemory%2Bcards%26qid%3D1694172761%26sr%3D8-22-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1",
+            "categories": [
+                {
+                    "name": "All Categories",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/51XIphfqU1L._AC_UY218_.jpg",
+            "sponsored": true,
+            "prices": [
+                {
+                    "symbol": "₹",
+                    "value": 625,
+                    "currency": "INR",
+                    "raw": "₹625",
+                    "name": "Primary",
+                    "is_primary": true
+                },
+                {
+                    "symbol": "₹",
+                    "value": 1999,
+                    "currency": "INR",
+                    "raw": "₹1,999",
+                    "name": "Original",
+                    "is_rrp": true
+                }
+            ],
+            "price": {
+                "symbol": "₹",
+                "value": 625,
+                "currency": "INR",
+                "raw": "₹625",
+                "name": "Primary",
+                "is_primary": true
+            }
+        }
+    ],
+    "category_information": {
+        "is_landing_page": false
+    },
+    "related_searches": [
+        {
+            "query": "keyboard and mouse",
+            "link": "https://www.amazon.in/s/?k=keyboard+and+mouse&ref=sugsr_0&pd_rd_w=FZ4wp&content-id=amzn1.sym.1c7db1d2-1fe9-496b-8f07-8ed64c022066:amzn1.sym.1c7db1d2-1fe9-496b-8f07-8ed64c022066&pf_rd_p=1c7db1d2-1fe9-496b-8f07-8ed64c022066&pf_rd_r=PM84W5JW4XGMBN8YSR33&pd_rd_wg=nhxT3&pd_rd_r=a8d6e85f-2ef0-4bba-926d-6c8142467f29&qid=1694172761"
+        },
+        {
+            "query": "pendrive",
+            "link": "https://www.amazon.in/s/?k=pendrive&ref=sugsr_3&pd_rd_w=FZ4wp&content-id=amzn1.sym.1c7db1d2-1fe9-496b-8f07-8ed64c022066:amzn1.sym.1c7db1d2-1fe9-496b-8f07-8ed64c022066&pf_rd_p=1c7db1d2-1fe9-496b-8f07-8ed64c022066&pf_rd_r=PM84W5JW4XGMBN8YSR33&pd_rd_wg=nhxT3&pd_rd_r=a8d6e85f-2ef0-4bba-926d-6c8142467f29&qid=1694172761"
+        },
+        {
+            "query": "security camera",
+            "link": "https://www.amazon.in/s/?k=security+camera&ref=sugsr_1&pd_rd_w=FZ4wp&content-id=amzn1.sym.1c7db1d2-1fe9-496b-8f07-8ed64c022066:amzn1.sym.1c7db1d2-1fe9-496b-8f07-8ed64c022066&pf_rd_p=1c7db1d2-1fe9-496b-8f07-8ed64c022066&pf_rd_r=PM84W5JW4XGMBN8YSR33&pd_rd_wg=nhxT3&pd_rd_r=a8d6e85f-2ef0-4bba-926d-6c8142467f29&qid=1694172761"
+        },
+        {
+            "query": "kitchen storage",
+            "link": "https://www.amazon.in/s/?k=kitchen+storage&ref=sugsr_4&pd_rd_w=FZ4wp&content-id=amzn1.sym.1c7db1d2-1fe9-496b-8f07-8ed64c022066:amzn1.sym.1c7db1d2-1fe9-496b-8f07-8ed64c022066&pf_rd_p=1c7db1d2-1fe9-496b-8f07-8ed64c022066&pf_rd_r=PM84W5JW4XGMBN8YSR33&pd_rd_wg=nhxT3&pd_rd_r=a8d6e85f-2ef0-4bba-926d-6c8142467f29&qid=1694172761"
+        },
+        {
+            "query": "memory card 128",
+            "link": "https://www.amazon.in/s/?k=memory+card+128&ref=sugsr_2&pd_rd_w=FZ4wp&content-id=amzn1.sym.1c7db1d2-1fe9-496b-8f07-8ed64c022066:amzn1.sym.1c7db1d2-1fe9-496b-8f07-8ed64c022066&pf_rd_p=1c7db1d2-1fe9-496b-8f07-8ed64c022066&pf_rd_r=PM84W5JW4XGMBN8YSR33&pd_rd_wg=nhxT3&pd_rd_r=a8d6e85f-2ef0-4bba-926d-6c8142467f29&qid=1694172761"
+        }
+    ],
+    "pagination": {
+        "total_results": 1000,
+        "current_page": 1,
+        "next_page_link": "https://www.amazon.in/s?k=memory+cards&page=2&qid=1694172761&ref=sr_pg_2",
+        "total_pages": 20
+    },
+    "refinements": {
+        "delivery": [
+            {
+                "name": "Get It by Tomorrow",
+                "value": "p_90/6741118031",
+                "link": "https://www.amazon.in/s?k=memory+cards&rh=p_90%3A6741118031&dc&qid=1694172761&rnid=6741116031&ref=sr_nr_p_90_1&ds=v1%3ASQiHnj61cDuCodOt7cndOCk%2BJUBlTijRUtZ57b4dN1w",
+                "refinement_display_name": "Delivery"
+            },
+            {
+                "name": "Get It in 2 Days",
+                "value": "p_90/20912642031",
+                "link": "https://www.amazon.in/s?k=memory+cards&rh=p_90%3A20912642031&dc&qid=1694172761&rnid=6741116031&ref=sr_nr_p_90_2&ds=v1%3ASp95he%2BsYnlYgRRoKTsXLIWUhzhHH8ZbWvSXJtE6tzU",
+                "refinement_display_name": "Delivery"
+            }
+        ],
+        "departments": [
+            {
+                "name": "Memory Cards",
+                "value": "n/1388963031",
+                "link": "https://www.amazon.in/s?k=memory+cards&rh=n%3A1388963031&dc&qid=1694172761&rnid=3576079031&ref=sr_nr_n_1&ds=v1%3AvsK%2F2NZMdhwtweLHNe2xwB8hVdGGGbwAxc2yTjTkkas",
+                "refinement_display_name": "Departments"
+            },
+            {
+                "name": "Micro SD Cards",
+                "value": "n/1388965031",
+                "link": "https://www.amazon.in/s?k=memory+cards&rh=n%3A1388963031%2Cn%3A1388965031&dc&qid=1694172761&rnid=3576079031&ref=sr_nr_n_2&ds=v1%3AgeW0TFcypHJIbQJ3h0fJMT0e4mCKWafy7MaTQNOzo60",
+                "refinement_display_name": "Departments"
+            },
+            {
+                "name": "SecureDigital Cards",
+                "value": "n/1388968031",
+                "link": "https://www.amazon.in/s?k=memory+cards&rh=n%3A1388963031%2Cn%3A1388968031&dc&qid=1694172761&rnid=3576079031&ref=sr_nr_n_3&ds=v1%3AkbXELMXEMXOaMRShzqwIiofPvdcLThrMOTDBsx5OF%2BQ",
+                "refinement_display_name": "Departments"
+            }
+        ],
+        "reviews": [
+            {
+                "name": "4 Stars & Up",
+                "value": "p_72/1318476031",
+                "link": "https://www.amazon.in/s?k=memory+cards&rh=p_72%3A1318476031&dc&qid=1694172761&rnid=1318475031&ref=sr_nr_p_72_1&ds=v1%3AeLE3vTUgluarlT6svS9mGbFygvX%2FuxD9k6K%2BsjfmU5o",
+                "refinement_display_name": "Reviews"
+            },
+            {
+                "name": "3 Stars & Up",
+                "value": "p_72/1318477031",
+                "link": "https://www.amazon.in/s?k=memory+cards&rh=p_72%3A1318477031&dc&qid=1694172761&rnid=1318475031&ref=sr_nr_p_72_2&ds=v1%3AAqUzsnUGdlzVrvg0sHYD4WU%2BP1qKVST52AYBfZAs5i8",
+                "refinement_display_name": "Reviews"
+            },
+            {
+                "name": "2 Stars & Up",
+                "value": "p_72/1318478031",
+                "link": "https://www.amazon.in/s?k=memory+cards&rh=p_72%3A1318478031&dc&qid=1694172761&rnid=1318475031&ref=sr_nr_p_72_3&ds=v1%3AMNnq3fBPnBloP2FZERLOBpc8Mb%2B8U%2Btj7Ew%2F8WYijeg",
+                "refinement_display_name": "Reviews"
+            },
+            {
+                "name": "1 Star & Up",
+                "value": "p_72/1318479031",
+                "link": "https://www.amazon.in/s?k=memory+cards&rh=p_72%3A1318479031&dc&qid=1694172761&rnid=1318475031&ref=sr_nr_p_72_4&ds=v1%3ADmKrO8bXKvIomfQFfoVmKf3OOfPOfb57vYkb4mJ6l0M",
+                "refinement_display_name": "Reviews"
+            }
+        ],
+        "price": [
+            {
+                "name": "Under ₹1,000",
+                "value": "n:976419031||p_36/1318503031",
+                "link": "https://www.amazon.in/s?k=memory+cards&rh=n%3A976419031%2Cp_36%3A1318503031&dc&qid=1694172761&rnid=1318502031&ref=sr_nr_p_36_1&ds=v1%3Ar%2F6WyP5UDmiQE67csp7S6gQ0eFzo6vW0WssxXEb%2F59E",
+                "refinement_display_name": "Price"
+            },
+            {
+                "name": "₹1,000 - ₹5,000",
+                "value": "n:976419031||p_36/1318504031",
+                "link": "https://www.amazon.in/s?k=memory+cards&rh=n%3A976419031%2Cp_36%3A1318504031&dc&qid=1694172761&rnid=1318502031&ref=sr_nr_p_36_2&ds=v1%3AeOaap%2BRLFh8RFTh4PrQKF6MKUB%2BEtMy8f2Rlf75%2BQGo",
+                "refinement_display_name": "Price"
+            },
+            {
+                "name": "₹5,000 - ₹10,000",
+                "value": "n:976419031||p_36/1318505031",
+                "link": "https://www.amazon.in/s?k=memory+cards&rh=n%3A976419031%2Cp_36%3A1318505031&dc&qid=1694172761&rnid=1318502031&ref=sr_nr_p_36_3&ds=v1%3A3CKkoqYxL8XHmTMIqsXFaIc9SvkiLHKKnhzgp%2BgNoos",
+                "refinement_display_name": "Price"
+            },
+            {
+                "name": "₹10,000 - ₹20,000",
+                "value": "n:976419031||p_36/1318506031",
+                "link": "https://www.amazon.in/s?k=memory+cards&rh=n%3A976419031%2Cp_36%3A1318506031&dc&qid=1694172761&rnid=1318502031&ref=sr_nr_p_36_4&ds=v1%3A%2B5j05UNV5AjjsMUOPXWiT0PgvnqJ7a1KC1Q0X1zgYjg",
+                "refinement_display_name": "Price"
+            },
+            {
+                "name": "Over ₹20,000",
+                "value": "n:976419031||p_36/1318507031",
+                "link": "https://www.amazon.in/s?k=memory+cards&rh=n%3A976419031%2Cp_36%3A1318507031&dc&qid=1694172761&rnid=1318502031&ref=sr_nr_p_36_5&ds=v1%3AYwI%2BfenZU5z5Ni8gw48%2Fr39MPJGjDYoFRr53up3ZaeE",
+                "refinement_display_name": "Price"
+            },
+            {
+                "name": "₹        ₹            Go",
+                "value": "p_36/price-range",
+                "refinement_display_name": "Price"
+            },
+            {
+                "name": "All Discounts",
+                "value": "p_n_deal_type/26921226031",
+                "link": "https://www.amazon.in/s?k=memory+cards&rh=p_n_deal_type%3A26921226031&dc&qid=1694172761&rnid=26921223031&ref=sr_nr_p_n_deal_type_1&ds=v1%3A3pOrsbnY7pyP6amKetFUN3VE9AazGAJz5bJujcksHMg",
+                "refinement_display_name": "Price"
+            },
+            {
+                "name": "Today's Deals",
+                "value": "p_n_deal_type/26921224031",
+                "link": "https://www.amazon.in/s?k=memory+cards&rh=p_n_deal_type%3A26921224031&dc&qid=1694172761&rnid=26921223031&ref=sr_nr_p_n_deal_type_2&ds=v1%3AiBGpzdxY6qEqj%2Fsj0a7MBPqfuvF4IGSkPNWi5lxFPzc",
+                "refinement_display_name": "Price"
+            }
+        ],
+        "brand": [
+            {
+                "name": "Samsung",
+                "value": "n:976419031||p_89/Samsung",
+                "link": "https://www.amazon.in/s?k=memory+cards&rh=n%3A976419031%2Cp_89%3ASamsung&dc&qid=1694172761&rnid=3837712031&ref=sr_nr_p_89_1&ds=v1%3ANc9H%2FX5PErSNNnD94J4UrnISOF6wesmmIEtIqE3%2Fais",
+                "refinement_display_name": "Brand"
+            },
+            {
+                "name": "SanDisk",
+                "value": "n:976419031||p_89/SanDisk",
+                "link": "https://www.amazon.in/s?k=memory+cards&rh=n%3A976419031%2Cp_89%3ASanDisk&dc&qid=1694172761&rnid=3837712031&ref=sr_nr_p_89_2&ds=v1%3AV3rz%2FVIAr69T7ZPR5%2B4Amw6%2BY2Jh%2BX6s7sEBvb%2FWZsA",
+                "refinement_display_name": "Brand"
+            },
+            {
+                "name": "SP Silicon Power",
+                "value": "n:976419031||p_89/SP Silicon Power",
+                "link": "https://www.amazon.in/s?k=memory+cards&rh=n%3A976419031%2Cp_89%3ASP+Silicon+Power&dc&qid=1694172761&rnid=3837712031&ref=sr_nr_p_89_3&ds=v1%3ASf5nZUBEfq0SQ0qIishjCEjzof6VX2BgD40u454e8FA",
+                "refinement_display_name": "Brand"
+            },
+            {
+                "name": "Gigastone",
+                "value": "n:976419031||p_89/Gigastone",
+                "link": "https://www.amazon.in/s?k=memory+cards&rh=n%3A976419031%2Cp_89%3AGigastone&dc&qid=1694172761&rnid=3837712031&ref=sr_nr_p_89_4&ds=v1%3AghIzd6P2DuKLmL0rhVoJPvZhGCDwOmuk%2Bi6f5yFY19E",
+                "refinement_display_name": "Brand"
+            }
+        ],
+        "special_features": [
+            {
+                "name": "Temperature Proof",
+                "value": "n:1388963031||p_n_feature_four_browse-bin/28237991031",
+                "link": "https://www.amazon.in/s?k=memory+cards&rh=n%3A1388963031%2Cp_n_feature_four_browse-bin%3A28237991031&dc&qid=1694172761&rnid=28237990031&ref=sr_nr_p_n_feature_four_browse-bin_1&ds=v1%3A4PDGyeODMLlsluiF2C5GpKRpnX9UKHVehL%2Bngt%2Bi9lY",
+                "refinement_display_name": "Special Features"
+            },
+            {
+                "name": "Water Proof",
+                "value": "n:1388963031||p_n_feature_four_browse-bin/28237992031",
+                "link": "https://www.amazon.in/s?k=memory+cards&rh=n%3A1388963031%2Cp_n_feature_four_browse-bin%3A28237992031&dc&qid=1694172761&rnid=28237990031&ref=sr_nr_p_n_feature_four_browse-bin_2&ds=v1%3AVvqDRANv7LsBCHETR2skFWmaH25QCk2WBA%2BpTnM%2FQ5I",
+                "refinement_display_name": "Special Features"
+            },
+            {
+                "name": "X Ray Proof",
+                "value": "n:1388963031||p_n_feature_four_browse-bin/28237995031",
+                "link": "https://www.amazon.in/s?k=memory+cards&rh=n%3A1388963031%2Cp_n_feature_four_browse-bin%3A28237995031&dc&qid=1694172761&rnid=28237990031&ref=sr_nr_p_n_feature_four_browse-bin_3&ds=v1%3ATU27rbTB4lak3ZEEznfFYs%2Fm%2FfhE92gx2VV5P%2BFkB8E",
+                "refinement_display_name": "Special Features"
+            },
+            {
+                "name": "Drop Proof",
+                "value": "n:1388963031||p_n_feature_four_browse-bin/28237994031",
+                "link": "https://www.amazon.in/s?k=memory+cards&rh=n%3A1388963031%2Cp_n_feature_four_browse-bin%3A28237994031&dc&qid=1694172761&rnid=28237990031&ref=sr_nr_p_n_feature_four_browse-bin_4&ds=v1%3AXVI6jWH01pWH1cQUdG3esaoDCUbhr39B4xkWS0aqf%2Bk",
+                "refinement_display_name": "Special Features"
+            }
+        ],
+        "pay_on_delivery": [
+            {
+                "name": "Eligible for Pay On Delivery",
+                "value": "p_n_is_cod_eligible/4931671031",
+                "link": "https://www.amazon.in/s?k=memory+cards&rh=p_n_is_cod_eligible%3A4931671031&dc&qid=1694172761&rnid=4931670031&ref=sr_nr_p_n_is_cod_eligible_1&ds=v1%3A7WL0THLdT%2BKbw5HXyk5La3rUPmWgIwopT%2BYRIPCvw0E",
+                "refinement_display_name": "Pay On Delivery"
+            }
+        ],
+        "memory_card_capacity": [
+            {
+                "name": "Up to 2 GB",
+                "value": "p_n_feature_browse-bin/1484862031",
+                "refinement_display_name": "Memory Card Capacity"
+            },
+            {
+                "name": "2 GB",
+                "value": "p_n_feature_browse-bin/1484863031",
+                "refinement_display_name": "Memory Card Capacity"
+            },
+            {
+                "name": "4 GB",
+                "value": "n:1388963031||p_n_feature_browse-bin/1484864031",
+                "link": "https://www.amazon.in/s?k=memory+cards&rh=n%3A1388963031%2Cp_n_feature_browse-bin%3A1484864031&dc&qid=1694172761&rnid=1484861031&ref=sr_nr_p_n_feature_browse-bin_3&ds=v1%3ADRWwn1KyIwVy%2F%2F%2FAphAjmVDEVc%2BcEgNxjkzXryY3RmM",
+                "refinement_display_name": "Memory Card Capacity"
+            },
+            {
+                "name": "8 GB",
+                "value": "n:1388963031||p_n_feature_browse-bin/1484865031",
+                "link": "https://www.amazon.in/s?k=memory+cards&rh=n%3A1388963031%2Cp_n_feature_browse-bin%3A1484865031&dc&qid=1694172761&rnid=1484861031&ref=sr_nr_p_n_feature_browse-bin_4&ds=v1%3AIYOUeMjRMIsE9rNaDBAKgj5G7GNV9MGmHmIfDdlfHHE",
+                "refinement_display_name": "Memory Card Capacity"
+            },
+            {
+                "name": "16 GB",
+                "value": "n:1388963031||p_n_feature_browse-bin/1484866031",
+                "link": "https://www.amazon.in/s?k=memory+cards&rh=n%3A1388963031%2Cp_n_feature_browse-bin%3A1484866031&dc&qid=1694172761&rnid=1484861031&ref=sr_nr_p_n_feature_browse-bin_5&ds=v1%3AImXBqoLHJ4Jkv8bT7JldzJRtitokM8RXwmrSqe2T5rQ",
+                "refinement_display_name": "Memory Card Capacity"
+            },
+            {
+                "name": "32 GB",
+                "value": "n:1388963031||p_n_feature_browse-bin/1484867031",
+                "link": "https://www.amazon.in/s?k=memory+cards&rh=n%3A1388963031%2Cp_n_feature_browse-bin%3A1484867031&dc&qid=1694172761&rnid=1484861031&ref=sr_nr_p_n_feature_browse-bin_6&ds=v1%3Ar45gkuNYzbB7Nj4jzrdCIwngRALkwtjM4B3F%2F1KlA6A",
+                "refinement_display_name": "Memory Card Capacity"
+            },
+            {
+                "name": "64 GB & more",
+                "value": "n:1388963031||p_n_feature_browse-bin/1484868031",
+                "link": "https://www.amazon.in/s?k=memory+cards&rh=n%3A1388963031%2Cp_n_feature_browse-bin%3A1484868031&dc&qid=1694172761&rnid=1484861031&ref=sr_nr_p_n_feature_browse-bin_7&ds=v1%3AS8p2fvV5Rq4lk2cEr7cchFg7YFon93mabwXBZbdWkuQ",
+                "refinement_display_name": "Memory Card Capacity"
+            }
+        ],
+        "item_length_longer_edge": [
+            {
+                "name": "Up to 2.9 cm",
+                "value": "n:1388963031||p_n_feature_six_browse-bin/85907841031",
+                "link": "https://www.amazon.in/s?k=memory+cards&rh=n%3A1388963031%2Cp_n_feature_six_browse-bin%3A85907841031&dc&qid=1694172761&rnid=85907703031&ref=sr_nr_p_n_feature_six_browse-bin_1&ds=v1%3AE7zuE0MUiAzPjifprdoNkOwujCnZJqpi06Jaes3ahsw",
+                "refinement_display_name": "Item Length Longer Edge"
+            }
+        ],
+        "item_width_shorter_edge": [
+            {
+                "name": "Up to 2.9 cm",
+                "value": "n:1388963031||p_n_feature_five_browse-bin/85907837031",
+                "link": "https://www.amazon.in/s?k=memory+cards&rh=n%3A1388963031%2Cp_n_feature_five_browse-bin%3A85907837031&dc&qid=1694172761&rnid=85907702031&ref=sr_nr_p_n_feature_five_browse-bin_1&ds=v1%3Axb05SWhXu8o%2BqmhCu6AZ%2BEHSsxN5EMfArf34%2F7s3u3c",
+                "refinement_display_name": "Item Width Shorter Edge"
+            }
+        ],
+        "speed": [
+            {
+                "name": "Class 4",
+                "value": "n:1388965031||p_n_feature_two_browse-bin/7014430031",
+                "link": "https://www.amazon.in/s?k=memory+cards&rh=n%3A1388965031%2Cp_n_feature_two_browse-bin%3A7014430031&dc&qid=1694172761&rnid=7014427031&ref=sr_nr_p_n_feature_two_browse-bin_1&ds=v1%3ACbhFaz%2FcpOximVZucGUrh1eysvDDdXJmW3U6PNmKnik",
+                "refinement_display_name": "Speed"
+            },
+            {
+                "name": "Class 10",
+                "value": "n:1388965031||p_n_feature_two_browse-bin/7014428031",
+                "link": "https://www.amazon.in/s?k=memory+cards&rh=n%3A1388965031%2Cp_n_feature_two_browse-bin%3A7014428031&dc&qid=1694172761&rnid=7014427031&ref=sr_nr_p_n_feature_two_browse-bin_2&ds=v1%3AfCL7wTXQ%2BLO3jPoHHQVIJ8AksQ72S%2BpCSzhgXvd8aYU",
+                "refinement_display_name": "Speed"
+            }
+        ],
+        "new_arrivals": [
+            {
+                "name": "Last 30 days",
+                "value": "n:976419031||p_n_date_first_available_absolute/1318487031",
+                "link": "https://www.amazon.in/s?k=memory+cards&rh=n%3A976419031%2Cp_n_date_first_available_absolute%3A1318487031&dc&qid=1694172761&rnid=1318486031&ref=sr_nr_p_n_date_first_available_absolute_1&ds=v1%3Ao9qpOct%2BAvlJTyxGANMMZ3KlI%2FLSeukDTOXEF%2FAXhbo",
+                "refinement_display_name": "New Arrivals"
+            },
+            {
+                "name": "Last 90 days",
+                "value": "n:976419031||p_n_date_first_available_absolute/1318488031",
+                "link": "https://www.amazon.in/s?k=memory+cards&rh=n%3A976419031%2Cp_n_date_first_available_absolute%3A1318488031&dc&qid=1694172761&rnid=1318486031&ref=sr_nr_p_n_date_first_available_absolute_2&ds=v1%3AGJOKwOvlHa%2FVNXlq2OfQM1baWxuq%2FExig5ijx2vVdtk",
+                "refinement_display_name": "New Arrivals"
+            }
+        ],
+        "item_condition": [
+            {
+                "name": "New",
+                "value": "n:976419031||p_n_condition-type/8609960031",
+                "link": "https://www.amazon.in/s?k=memory+cards&rh=n%3A976419031%2Cp_n_condition-type%3A8609960031&dc&qid=1694172761&rnid=8609959031&ref=sr_nr_p_n_condition-type_1&ds=v1%3AnoYM%2BC7xSMVLaxjw%2BQKqZPic8mEZI6GvUuT9FMs6G8I",
+                "refinement_display_name": "Item Condition"
+            }
+        ],
+        "discount": [
+            {
+                "name": "10% Off or more",
+                "value": "n:976419031||p_n_pct-off-with-tax/2665399031",
+                "link": "https://www.amazon.in/s?k=memory+cards&rh=n%3A976419031%2Cp_n_pct-off-with-tax%3A2665399031&dc&qid=1694172761&rnid=2665398031&ref=sr_nr_p_n_pct-off-with-tax_1&ds=v1%3A0NGJFla%2BaIb4HjabAftRcm3F6NVj1hUfyoCK7C1ajdA",
+                "refinement_display_name": "Discount"
+            },
+            {
+                "name": "25% Off or more",
+                "value": "n:976419031||p_n_pct-off-with-tax/2665400031",
+                "link": "https://www.amazon.in/s?k=memory+cards&rh=n%3A976419031%2Cp_n_pct-off-with-tax%3A2665400031&dc&qid=1694172761&rnid=2665398031&ref=sr_nr_p_n_pct-off-with-tax_2&ds=v1%3Ah%2FCxIyI8juK8O3qgxTUDFBVaDuJmyNDhjqPClXEtTUE",
+                "refinement_display_name": "Discount"
+            },
+            {
+                "name": "35% Off or more",
+                "value": "n:976419031||p_n_pct-off-with-tax/2665402031",
+                "link": "https://www.amazon.in/s?k=memory+cards&rh=n%3A976419031%2Cp_n_pct-off-with-tax%3A2665402031&dc&qid=1694172761&rnid=2665398031&ref=sr_nr_p_n_pct-off-with-tax_3&ds=v1%3Ar%2BzLb%2BseyUqvKZlqImehzkg2vh7Q9ZY6O1SerN3oRXU",
+                "refinement_display_name": "Discount"
+            },
+            {
+                "name": "50% Off or more",
+                "value": "n:976419031||p_n_pct-off-with-tax/2665401031",
+                "link": "https://www.amazon.in/s?k=memory+cards&rh=n%3A976419031%2Cp_n_pct-off-with-tax%3A2665401031&dc&qid=1694172761&rnid=2665398031&ref=sr_nr_p_n_pct-off-with-tax_4&ds=v1%3AhX90blkggRPpggl0kpYyomDux13RVeXcNjW9QBmoO9U",
+                "refinement_display_name": "Discount"
+            },
+            {
+                "name": "60% Off or more",
+                "value": "n:976419031||p_n_pct-off-with-tax/27060456031",
+                "link": "https://www.amazon.in/s?k=memory+cards&rh=n%3A976419031%2Cp_n_pct-off-with-tax%3A27060456031&dc&qid=1694172761&rnid=2665398031&ref=sr_nr_p_n_pct-off-with-tax_5&ds=v1%3Av0WiNsV%2FvgZT4nTnN2rTf3u78Sv8Q5Yi%2FQYcIA4nvEE",
+                "refinement_display_name": "Discount"
+            },
+            {
+                "name": "70% Off or more",
+                "value": "n:976419031||p_n_pct-off-with-tax/27060457031",
+                "link": "https://www.amazon.in/s?k=memory+cards&rh=n%3A976419031%2Cp_n_pct-off-with-tax%3A27060457031&dc&qid=1694172761&rnid=2665398031&ref=sr_nr_p_n_pct-off-with-tax_6&ds=v1%3AGRPefg0zsVYVHENHnYMcU4odZXJcuGIUTUA%2BJ5Ov5PE",
+                "refinement_display_name": "Discount"
+            }
+        ],
+        "availability": [
+            {
+                "name": "Include Out of Stock",
+                "value": "p_n_availability/1318485031",
+                "link": "https://www.amazon.in/s?k=memory+cards&rh=p_n_availability%3A1318485031&dc&qid=1694172761&rnid=1318483031&ref=sr_nr_p_n_availability_2&ds=v1%3AZdpVmQeZfhHStIJCRrV3bPWTvmdf%2BuKgK7vCRt%2BpyrY",
+                "refinement_display_name": "Availability"
+            }
+        ]
+    }
+}
