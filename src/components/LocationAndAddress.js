@@ -30,7 +30,7 @@ const LocationAndAddress = ({handleCloseModal,addressDef, setAddressDef, address
         setIsLoading(false);
         setAddresses(response?.data?.data?.addresses);
         setAddressDef(response?.data?.data?.defaultaddress)
-        console.log(response?.data?.data?.addresses)
+        // console.log(response?.data?.data?.addresses)
       })
       .catch((error) => {
         setIsLoading(false);
